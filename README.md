@@ -8,6 +8,8 @@
   - [Chore Management Application](https://github.com/BenHex1/Chore-Management-application)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>Website</b>
+  - [Event Booking website](https://github.com/BenHex1/Website---Event-Booking)
 
 <h2> 🤳 Connect with me:</h2>
 
