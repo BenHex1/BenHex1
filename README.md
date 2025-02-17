@@ -5,9 +5,7 @@
 - <b>Java</b>
   - [Box Packing Problem - Machine learning](https://github.com/BenHex1/Evolutionary-Computing-BoxPacking-Problem-Java)
 - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Chore Management Application](https://github.com/BenHex1/Chore-Management-application)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
