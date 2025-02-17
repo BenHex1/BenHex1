@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Box Packing Problem - Machine learning (Java and Machine Learning Components)</b>
-  - [Image Analysis Middleware]([https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964](https://github.com/BenHex1/Evolutionary-Computing-BoxPacking-Problem-Java))
+- <b>Java</b>
+  - [Box Packing Problem - Machine learning](https://github.com/BenHex1/Evolutionary-Computing-BoxPacking-Problem-Java)
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
