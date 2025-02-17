@@ -10,6 +10,10 @@
 - <b>Website</b>
   - [Event Booking website](https://github.com/BenHex1/Website---Event-Booking)
   - [Chollerton Tea Room website](https://github.com/BenHex1/Website-for-Tea-Room)
+- <b>Group Project - University</b>
+  - [Reducing Food Waste in Indonesia](https://github.com/NikkHubThe1st/Team-Project-and-Professionalism---Project)
+
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Ben | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
