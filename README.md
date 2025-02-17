@@ -7,7 +7,6 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Chore Management Application](https://github.com/BenHex1/Chore-Management-application)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Website</b>
   - [Event Booking website](https://github.com/BenHex1/Website---Event-Booking)
   - [Chollerton Tea Room website](https://github.com/BenHex1/Website-for-Tea-Room)
