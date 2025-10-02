@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ben! <br/><a href="https://github.com/BenHex1">Programmer</a></h1>
+<h1>Hi, I'm Ben! <br/><a href="https://github.com/BenHex1">Computer Science Graduate</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
