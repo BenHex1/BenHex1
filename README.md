@@ -15,7 +15,9 @@
   - [Reducing Food Waste in Indonesia - Group Project](https://github.com/NikkHubThe1st/Team-Project-and-Professionalism---Project)
   <p>My primary contributions to Compost Connect focused on the complete backend infrastructure and data management. I designed and implemented the MySQL database schema, including all tables (users, listings, reports) with proper relationships and foreign key constraints. Additionally, I developed all server-side functionality using PHP and PDO, implementing secure data handling with prepared statements, input validation, password hashing, session management, and comprehensive data cleaning to ensure application security and integrity.</p>
   
-  - [Event Booking website](https://github.com/BenHex1/Website---Event-Booking)
+  - [Events Guide North (EGN) - Event Booking System](https://github.com/BenHex1/Website---Event-Booking)
+  <p>A comprehensive web-based event booking and management system built with PHP and MySQL. This application allows users to browse events, make bookings with delivery options, and provides administrative capabilities for event management.</p>
+  
   - [Chollerton Tea Room website](https://github.com/BenHex1/Website-for-Tea-Room)
 
 <h2> 🤳 Connect with me:</h2>
