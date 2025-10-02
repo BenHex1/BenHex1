@@ -4,6 +4,7 @@
 
 - <b>Mobile Development, Flutter, Dart, Google Maps APIs</b>
   - [Eco Route - Developing an Eco-Friendly Routing and Traffic Analysis App](https://github.com/BenHex1/Dissertation)
+  <p>EcoRoute is a Flutter application that helps you plan more environmentally-friendly journeys. It compares multiple driving routes, estimates CO₂ emissions, fuel/energy consumption, and cost using traffic and elevation-aware models, and lets you choose between fastest, eco, or balanced options. You can save routes and review journey statistics and savings over time. <p>
 - <b>Java</b>
   - [Box Packing Problem - Machine learning](https://github.com/BenHex1/Evolutionary-Computing-BoxPacking-Problem-Java)
 - <b>C# (.NET Desktop Applications)</b>
