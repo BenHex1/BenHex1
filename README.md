@@ -5,8 +5,9 @@
 - <b>Mobile Development, Flutter, Dart, Google Maps APIs</b>
   - [Eco Route - Developing an Eco-Friendly Routing and Traffic Analysis App](https://github.com/BenHex1/Dissertation)
   <p>EcoRoute is a Flutter application that helps you plan more environmentally-friendly journeys. It compares multiple driving routes, estimates CO₂ emissions, fuel/energy consumption, and cost using traffic and elevation-aware models, and lets you choose between fastest, eco, or balanced options. You can save routes and review journey statistics and savings over time. <p>
-- <b>Java</b>
-  - [Box Packing Problem - Machine learning](https://github.com/BenHex1/Evolutionary-Computing-BoxPacking-Problem-Java)
+- <b>Java, Machine Learning</b>
+  - [Box Packing Problem](https://github.com/BenHex1/Evolutionary-Computing-BoxPacking-Problem-Java)
+  <p>A sophisticated 2D bin packing solver that uses genetic algorithms to optimally pack boxes of varying dimensions into a container (lorry). The algorithm employs evolutionary computing techniques to find solutions that minimize wasted space while ensuring all boxes fit without gaps.</p>
 - <b>C# (.NET Desktop Applications)</b>
   - [Chore Management Application](https://github.com/BenHex1/Chore-Management-application)
 - <b>Python</b>
