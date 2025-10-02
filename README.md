@@ -8,15 +8,15 @@
 - <b>Java, Machine Learning</b>
   - [Box Packing Problem](https://github.com/BenHex1/Evolutionary-Computing-BoxPacking-Problem-Java)
   <p>A sophisticated 2D bin packing solver that uses genetic algorithms to optimally pack boxes of varying dimensions into a container (lorry). The algorithm employs evolutionary computing techniques to find solutions that minimise wasted space while ensuring all boxes fit without gaps.</p>
+- <b>Desktop Application Development, C#, .NET</b>
+  - [Chore Management Application](https://github.com/BenHex1/Chore-Management-application)
+  <p>A comprehensive WPF desktop application built with C# and .NET 8.0 for managing household chores between partners. This application helps distribute tasks fairly, track completion rates, and gamify the chore management experience with a daily reward system.</p>
 - <b>Full Stack Web Development, PHP, JavaScript, CSS, HTML, Relational Databases, RESTful APIs</b>
   - [Reducing Food Waste in Indonesia - Group Project](https://github.com/NikkHubThe1st/Team-Project-and-Professionalism---Project)
   <p></p>
   
   - [Event Booking website](https://github.com/BenHex1/Website---Event-Booking)
   - [Chollerton Tea Room website](https://github.com/BenHex1/Website-for-Tea-Room)
-- <b>Desktop Application Development, C#, .NET</b>
-  - [Chore Management Application](https://github.com/BenHex1/Chore-Management-application)
-  <p>A comprehensive WPF desktop application built with C# and .NET 8.0 for managing household chores between partners. This application helps distribute tasks fairly, track completion rates, and gamify the chore management experience with a daily reward system.</p>
 
 <h2> 🤳 Connect with me:</h2>
 
