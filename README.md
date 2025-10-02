@@ -19,6 +19,7 @@
   <p>A comprehensive web-based event booking and management system built with PHP and MySQL. This application allows users to browse events, make bookings with delivery options, and provides administrative capabilities for event management.</p>
   
   - [Chollerton Tea Room website](https://github.com/BenHex1/Website-for-Tea-Room)
+  <p>A responsive website for Chollerton Tearooms, a charming tea room and bed & breakfast located in the picturesque hamlet of Chollerton in the North Tyne Valley. This project features a full-stack web application with a customer interest form and administrative dashboard.</p>
 
 <h2> 🤳 Connect with me:</h2>
 
