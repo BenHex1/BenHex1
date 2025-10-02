@@ -13,7 +13,7 @@
   <p>A comprehensive WPF desktop application built with C# and .NET 8.0 for managing household chores between partners. This application helps distribute tasks fairly, track completion rates, and gamify the chore management experience with a daily reward system.</p>
 - <b>Full Stack Web Development, PHP, JavaScript, CSS, HTML, Relational Databases, RESTful APIs</b>
   - [Reducing Food Waste in Indonesia - Group Project](https://github.com/NikkHubThe1st/Team-Project-and-Professionalism---Project)
-  <p></p>
+  <p>My primary contributions to Compost Connect focused on the complete backend infrastructure and data management. I designed and implemented the MySQL database schema, including all tables (users, listings, reports) with proper relationships and foreign key constraints. Additionally, I developed all server-side functionality using PHP and PDO, implementing secure data handling with prepared statements, input validation, password hashing, session management, and comprehensive data cleaning to ensure application security and integrity.</p>
   
   - [Event Booking website](https://github.com/BenHex1/Website---Event-Booking)
   - [Chollerton Tea Room website](https://github.com/BenHex1/Website-for-Tea-Room)
